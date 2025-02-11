@@ -26,7 +26,7 @@
 - Have fun!
 
 
-##References
+## References
 - [Kobakant's Simple Fabric Pressure Sensors](https://www.kobakant.at/DIY/?p=232)
 - [Kobakant's neoprene pressure sensor](https://www.kobakant.at/DIY/?p=65)
 - [Kobakant's paper + aluminum Foil Pressure Sensor](https://www.kobakant.at/DIY/?p=8936)
