@@ -27,6 +27,11 @@
 
 
 ##References
+- [Kobakant's Simple Fabric Pressure Sensors](https://www.kobakant.at/DIY/?p=232)
 - [Kobakant's neoprene pressure sensor](https://www.kobakant.at/DIY/?p=65)
+- [Kobakant's paper + aluminum Foil Pressure Sensor](https://www.kobakant.at/DIY/?p=8936)
+- [Fabricademy Students' E-Textiles Documentation: Julija Kara](https://class.textile-academy.org/2024/julija-karas/assignments/week05/)
+- [Fabricademy Students' Skin Electronics Documentation: Hala Amer](https://class.textile-academy.org/2024/hala-amer/assignments/week12/)
+  
 
 
