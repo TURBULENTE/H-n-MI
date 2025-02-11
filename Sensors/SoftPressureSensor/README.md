@@ -24,3 +24,9 @@
 - Build the circuit
 - Read the values of the sensor with Arduino
 - Have fun!
+
+
+##References
+- [Kobakant's neoprene pressure sensor](https://www.kobakant.at/DIY/?p=65)
+
+
