@@ -2,6 +2,7 @@
 This is an already built in small sensor that allows to monitor heart-rate and biofeedback. It is compatible with Arduino, ESP32 and other boards. 
 
 ![image](https://github.com/user-attachments/assets/1d2fb13c-9524-4414-a9d7-c4a89e1ebdfd)
+
 (Image reference: pulsesensor.com)
 
 ## Instructions
